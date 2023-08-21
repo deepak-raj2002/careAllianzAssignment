@@ -1,0 +1,133 @@
+.overlap-3 {
+    height: 407px;
+    left: 0;
+    position: absolute;
+    top: 2212px;
+    width: 1550px;
+
+    .frame-6 {
+        align-items: flex-start;
+        display: inline-flex;
+        flex-direction: column;
+        gap: 20px;
+        left: 105px;
+        position: absolute;
+        top: 0;
+
+        .meet-the-people-we {
+            font-family: "Inter", sans-serif;
+            font-size: 32px;
+            height: 108px;
+            font-style: normal;
+            letter-spacing: 0;
+            line-height: 55px;
+            position: relative;
+            width: 412px;
+            .span{
+                font-weight: 400;
+            }
+            .text-wrapper-3{
+                font-weight: 800;
+            }
+        }
+    }
+
+    .overlap-4 {
+        height: 279px;
+        left: 0;
+        position: absolute;
+        top: 128px;
+        width: 100%;
+
+        .overlap-5 {
+            height: 238px;
+            left: 0;
+            position: absolute;
+            top: 41px;
+            width: 100%;
+
+            .ellipse-7 {
+                background: linear-gradient(180deg, rgb(247, 102, 128) 0%, rgb(87, 0, 123) 100%);
+                border-radius: 36px;
+                height: 72px;
+                left: 815px;
+                position: absolute;
+                top: 0;
+                width: 72px;
+            }
+
+            .logo-list {
+                background-color: #f6f6f9;
+                height: 202px;
+                left: 0;
+                border-bottom: 1px solid #E7DAED;
+                border-top: 1px solid #E7DAED;
+                position: absolute;
+                top: 36px;
+                width: 100%;
+            }
+
+            .logo-2 {
+                height: 80px;
+                left: 393px;
+                object-fit: cover;
+                position: absolute;
+                top: 116px;
+                width: 215px;
+
+            }
+
+            .logo-3 {
+                height: 80px;
+                left: 98px;
+                object-fit: cover;
+                position: absolute;
+                top: 108px;
+                width: 215px;
+            }
+
+            .logo-4 {
+                height: 80px;
+                left: 771px;
+                object-fit: cover;
+                position: absolute;
+                top: 108px;
+                width: 215px;
+            }
+
+            .logo-5 {
+                height: 80px;
+                left: 1077px;
+                object-fit: cover;
+                position: absolute;
+                top: 108px;
+                width: 215px;
+            }
+
+        }
+
+        .frame-5 {
+            align-items: flex-start;
+            display: inline-flex;
+            left: 1247px;
+            position: absolute;
+            top: 0;
+
+            .btn-left {
+                height: 45px;
+                position: relative;
+                width: 45px;
+            }
+
+            .btn-right {
+                height: 133px;
+                margin-bottom: -58px;
+                margin-right: -44px;
+                margin-top: -30px;
+                position: relative;
+                width: 133px;
+            }
+        }
+
+    }
+}

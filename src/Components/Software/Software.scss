@@ -1,0 +1,167 @@
+
+.about-us-details {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 51px;
+    left: 160px;
+    position: absolute;
+    top: 1588px;
+
+    .div-3 {
+        align-items: flex-start;
+        display: inline-flex;
+        flex: 0 0 auto;
+        flex-direction: column;
+        gap: 20px;
+        position: relative;
+
+        .deco-line {
+            background: linear-gradient(180deg, rgb(247, 102, 128) 0%, rgb(87, 0, 123) 100%);
+            height: 5px;
+            position: relative;
+            width: 69px;
+        }
+
+        .div-4 {
+            align-items: flex-start;
+            display: inline-flex;
+            flex: 0 0 auto;
+            flex-direction: column;
+            gap: 30px;
+            position: relative;
+
+            .leading-companies {
+                color: #1A202C;
+                font-family: "Inter", Helvetica;
+                font-size: 35px;
+                font-weight: 400;
+                height: 108px;
+                letter-spacing: 0;
+                line-height: 55px;
+                margin-top: -1px;
+                position: relative;
+                width: 474px;
+
+                .span {
+                    font-family: "Inter",Helvetica;
+                    font-size: 35px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 55px;
+                }
+
+                .text-wrapper-3 {
+                    font-family: "Inter",Helvetica;
+                    font-size: 35px;
+                    font-style: normal;
+                    font-weight: 800;
+                    line-height: 55px;
+                }
+            }
+
+            .we-add-development {
+                height: 161.18px;
+                position: relative;
+                width: 515.78px;
+            }
+        }
+    }
+
+    .link-click {
+        align-items: center;
+        display: inline-flex;
+        flex: 0 0 auto;
+        gap: 15px;
+        justify-content: flex-end;
+        position: relative;
+
+        .text-wrapper-4 {
+            color: #57007B;
+            font-family: "Inter",sans-serif;
+            font-size: 16px;
+            font-style: normal;
+            font-weight:600;
+            line-height: 25px;
+            margin-top: -1px;
+            position: relative;
+            white-space: nowrap;
+            width: fit-content;
+        }
+
+        .arrow-right-line {
+            height: 24px;
+            position: relative;
+            width: 24px;
+        }
+    }
+}
+
+.abou-us-video {
+    background-image: url('../../Assets/videoImg.svg');
+    background-size: 100% 100%;
+    height: 460px;
+    left: 800px;
+    position: absolute;
+    top: 1585px;
+    width: 601px;
+
+    .overlap-group {
+        -webkit-backdrop-filter: blur(4px) brightness(100%);
+        backdrop-filter: blur(4px) brightness(100%);
+        background-color: #00000003;
+        border-radius: 20px;
+        height: 460px;
+
+        .overlap-group-wrapper {
+            height: 78px;
+            left: 262px;
+            position: relative;
+            top: 191px;
+            width: 78px;
+
+            .overlap-group-2 {
+                border-radius: 39px;
+                height: 78px;
+                position: relative;
+
+                .ellipse {
+                    background-color: #ffffff;
+                    border-radius: 24px;
+                    height: 48px;
+                    left: 15px;
+                    position: absolute;
+                    top: 15px;
+                    width: 48px;
+                }
+
+                .ellipse-2 {
+                    background-color: #ffffff6e;
+                    border-radius: 39px;
+                    height: 78px;
+                    left: 0;
+                    position: absolute;
+                    top: 0;
+                    width: 78px;
+                }
+
+                .play-circle-fill {
+                    height: 58px;
+                    left: 10px;
+                    position: absolute;
+                    top: 10px;
+                    width: 58px;
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width:500px){
+    .about-us-details{
+        left: 105px;
+    }
+    .abou-us-video{
+        left: 736px;
+    }
+}
