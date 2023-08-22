@@ -104,10 +104,10 @@
     .overlap {
         .nav-bar {
             .frame {
-                width: 560px;
+                width: 560px !important;
                 .nav-item{
                     .home{
-                        font-size: 18px;
+                        font-size: 18px !important;
                     }
                 }
             }
@@ -119,4 +119,11 @@
         }
     }
 
+}
+
+@media screen and (max-width:1250px) and (min-width:520px ){
+    .overlap{
+        width: 183vh !important;
+    }
+    
 }

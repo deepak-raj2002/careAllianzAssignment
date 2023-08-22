@@ -513,3 +513,13 @@
         }
     }
 }
+
+@media screen and (max-width:1250px) and (min-width:520px ){
+    .overlap-2{
+        width: 1755px !important;
+        .div-wrapper{
+            width: 1755px !important;
+        }
+    }
+    
+}
