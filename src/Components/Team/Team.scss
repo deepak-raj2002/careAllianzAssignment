@@ -1,6 +1,5 @@
 .team-section {
     height: 407px;
-    left: 0;
     position: absolute;
     top: 2212px;
     width: 1550px;
@@ -12,14 +11,12 @@
         gap: 20px;
         left: 105px;
         position: absolute;
-        top: 0;
 
         .meet-the-people-we {
             font-family: "Inter", sans-serif;
             font-size: 32px;
             height: 108px;
             font-style: normal;
-            letter-spacing: 0;
             line-height: 55px;
             position: relative;
             width: 412px;
@@ -34,14 +31,12 @@
 
     .overlap-4 {
         height: 279px;
-        left: 0;
         position: absolute;
         top: 128px;
         width: 100%;
 
         .overlap-5 {
             height: 238px;
-            left: 0;
             position: absolute;
             top: 41px;
             width: 100%;
@@ -52,14 +47,12 @@
                 height: 72px;
                 left: 815px;
                 position: absolute;
-                top: 0;
                 width: 72px;
             }
 
             .logo-list {
                 background-color: #f6f6f9;
                 height: 202px;
-                left: 0;
                 border-bottom: 1px solid #E7DAED;
                 border-top: 1px solid #E7DAED;
                 position: absolute;
@@ -111,7 +104,6 @@
             display: inline-flex;
             left: 1247px;
             position: absolute;
-            top: 0;
 
             .btn-left {
                 height: 45px;

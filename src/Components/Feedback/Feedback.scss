@@ -11,7 +11,6 @@
 
         .group-6 {
             height: 45px;
-            left: 0;
             position: absolute;
             top: 301px;
             width: 1280px;
@@ -26,9 +25,7 @@
 
             .btn-left-2 {
                 height: 45px;
-                left: 0;
                 position: absolute;
-                top: 0;
                 width: 45px;
             }
         }
@@ -66,12 +63,11 @@
                     }
 
                     .leading-companies-2 {
-                        color: var(--graygray-900);
+                        color: #1A202C;
                         font-family: "Inter", Helvetica;
                         font-size: 32px;
                         font-weight: 400;
                         height: 108px;
-                        letter-spacing: 0;
                         line-height: 55px;
                         position: relative;
                         text-align: center;
@@ -266,7 +262,6 @@
                             left: 25px;
                             object-fit: cover;
                             position: absolute;
-                            top: 0;
                             width: 20px;
                         }
 
@@ -275,7 +270,6 @@
                             left: 50px;
                             object-fit: cover;
                             position: absolute;
-                            top: 0;
                             width: 20px;
                         }
 
@@ -284,7 +278,6 @@
                             left: 75px;
                             object-fit: cover;
                             position: absolute;
-                            top: 0;
                             width: 20px;
 
                         }
@@ -294,7 +287,6 @@
                             left: 100px;
                             object-fit: cover;
                             position: absolute;
-                            top: 0;
                             width: 20px;
                         }
                     }
@@ -326,7 +318,6 @@
                             font-family: "Inter", Helvetica;
                             font-size: 11px;
                             font-weight: 400;
-                            letter-spacing: 0;
                             line-height: 17.8px;
                             position: relative;
                             text-align: center;
@@ -363,7 +354,6 @@
                             font-family: "Inter", Helvetica;
                             font-size: 12px;
                             font-weight: 400;
-                            letter-spacing: 0;
                             line-height: 19.4px;
                             position: relative;
                             text-align: center;
@@ -410,10 +400,8 @@
 
                         .star-perspective {
                             height: 20px;
-                            left: 0;
                             object-fit: cover;
                             position: absolute;
-                            top: 0;
                             width: 20px;
 
                         }
@@ -423,7 +411,6 @@
                             left: 25px;
                             object-fit: cover;
                             position: absolute;
-                            top: 0;
                             width: 20px;
                         }
 
@@ -432,7 +419,6 @@
                             left: 50px;
                             object-fit: cover;
                             position: absolute;
-                            top: 0;
                             width: 20px;
                         }
 
@@ -441,7 +427,6 @@
                             left: 75px;
                             object-fit: cover;
                             position: absolute;
-                            top: 0;
                             width: 20px;
 
                         }
@@ -451,7 +436,6 @@
                             left: 100px;
                             object-fit: cover;
                             position: absolute;
-                            top: 0;
                             width: 20px;
                         }
                     }
@@ -484,7 +468,6 @@
                             font-family: "Inter", Helvetica;
                             font-size: 14px;
                             font-weight: 400;
-                            letter-spacing: 0;
                             line-height: 22.7px;
                             position: relative;
                             text-align: center;
