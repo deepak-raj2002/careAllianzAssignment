@@ -8,7 +8,7 @@ import left from '../../Assets/btn-left.svg';
 import right from '../../Assets/btn-right.svg';
 const Team = () => {
     return (
-        <div className="overlap-3">
+        <div className="team-section">
          <div className="frame-6">
                 <div className="deco-line" />
                 <p className="meet-the-people-we">

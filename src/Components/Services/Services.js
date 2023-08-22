@@ -5,7 +5,7 @@ import mobile from '../../Assets/mobile-app.png';
 import dashboard from '../../Assets/Dashboard.png';
 const Services = () => {
     return (
-        <div className="overlap-2">
+        <div className="feedback-section">
             <div className="ellipse-3" />
             <div className="ellipse-4" />
             <div className="div-wrapper">

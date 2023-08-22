@@ -3,7 +3,7 @@ import './Header.scss';
 import logo from '../../Assets/logo.svg'
 const Header = () => {
     return(
-    <div className="overlap">
+    <div className="header-section">
         <div className="nav-bar">
             <div className="brand-logo">
                 <img className="logo"  alt="Logo" src={logo}/>
