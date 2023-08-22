@@ -7,7 +7,7 @@ const Services = () => {
     return (
         <div className="feedback-section">
             <div className="ellipse-3" />
-            <div className="ellipse-4" />
+            {/* <div className="ellipse-4" /> */}
             <div className="div-wrapper">
                 <div className="our-service-wrapper">
                     <div className="overlap-group-3">
